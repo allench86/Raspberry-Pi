@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+.metadata
+Servers
+*.war
+*.log
+*.out
+*.data
+*.index
+*.class
+target/
+.classpath
+.settings
+*.tmproj
+*~
+*.swp
